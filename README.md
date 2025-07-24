@@ -17,9 +17,16 @@ This project explores Kindle book performance using sales data. The dashboard hi
 ### Sales Dashboard Overview  
 ![Dashboard](dashboard.png)
 
-
 ## 📂 Dataset
 
-The dataset includes Kindle book metadata, sales numbers, ratings, and pricing details. *(Sample data used for educational purposes)*
+This project uses the **Kindle Book Sales Dataset**, containing over 130,000 Kindle books listed on Amazon. It includes key attributes such as:
+
+- `title`, `author`, and `asin` – book metadata and unique identifiers  
+- `stars`, `reviews`, `price` – performance and customer rating metrics  
+- `isBestSeller`, `isKindleUnlimited`, `isEditorsPick`, `isGoodReadsChoice` – feature tags for highlighting  
+- `publishedDate`, `category_name`, and `soldBy` – publication and classification details  
+
+This dataset supports the Power BI dashboard by enabling trend identification, category performance comparison, and pricing analysis for Kindle books.
+
 
 
